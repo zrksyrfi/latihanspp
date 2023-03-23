@@ -62,7 +62,7 @@
               </div>
               <div class="col-12">
                 <hr>
-                <a href="index.php" class="btn btn-info btn-block">Halaman Login Siswa</a>
+                <a href="index.php" class="btn btn-info btn-block">Login Siswa</a>
               </div>
             </div>
           </form>
